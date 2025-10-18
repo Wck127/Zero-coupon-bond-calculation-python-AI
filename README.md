@@ -1,2 +1,2 @@
-# Bond-valuation-python-AI
-A Python project demonstrating bond valuation, yield to maturity, and price–yield curve visualization.
+# Zero-coupon-bond-calculator-python-AI
+A Python project creating a calculator for yield to maturity of zero-coupon bonds. 
